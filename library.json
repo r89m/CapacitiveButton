@@ -1,0 +1,14 @@
+{
+  "name": "CapacitiveButtons",
+  "keywords": "button",
+  "description": "Handle CapacitiveButtons, powered by the CapacitiveSensor library",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/r89m/arduino-button-capacitivebutton.git"
+  },
+  "version": "1.0.0",
+  "include": "*/*.[ch]*",
+  "examples": "*/examples/*/*.ino",
+  "frameworks": "arduino",
+  "platforms": "*"
+}
