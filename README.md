@@ -22,7 +22,7 @@ Return whether or not the button is currently pressed.
 ### ```void configureButton(configureButtonCallback)```
 Allows the underlying button object to be configured on a per-button basis. Useful if you want to tinker with low-level features of the button interface; eg. CapacitiveSensor.
 
-```configureButtonCallback``` is a function which takes one parameter, the type of which depends on the type of button being configured - see below:
+```configureButtonCallback``` is a function which takes one parameter, a CapactiveSensor object:
 
 ```c++
 void configureCapacitiveSensorButtonCallback(CapacitiveSensor& capacitiveButton){
