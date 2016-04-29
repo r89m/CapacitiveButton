@@ -1,5 +1,5 @@
 {
-  "name": "CapacitiveButtons",
+  "name": "CapacitiveButton",
   "keywords": "button",
   "description": "Handle CapacitiveButtons, powered by the CapacitiveSensor library",
   "authors":[
@@ -7,11 +7,11 @@
   ]
   "repository": {
     "type": "git",
-    "url": "https://github.com/r89m/arduino-button-capacitivebutton.git"
+    "url": "https://github.com/r89m/CapacitiveButton.git"
   },
   "dependencies": []
     {
-      "name": "Buttons",
+      "name": "Button",
       "authors": [
         "Richard Miles"
       ]
