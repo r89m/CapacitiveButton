@@ -6,7 +6,7 @@
     "type": "git",
     "url": "https://github.com/r89m/CapacitiveButton.git"
   },
-  "dependencies": []
+  "dependencies": [
     {
       "name": "r89m Buttons",
       "authors": [
